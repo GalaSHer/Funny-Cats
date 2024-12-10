@@ -78,6 +78,7 @@ export const NewProductForm: React.FC = () => {
 
       <div className={styles.radioWrapper}>
           <p>Choose mimetype: </p>
+          <div className={styles.radioOptionswrapper}>
           <input 
               id="mimetype-jpeg"
               name="mimetype"
@@ -98,6 +99,7 @@ export const NewProductForm: React.FC = () => {
               required
           />
           <label htmlFor="mimetype-gif">.gif </label>
+          </div>
         </div>
       
       <button type="submit" className={styles.submitBtn}>Submit</button>
