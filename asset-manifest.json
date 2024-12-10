@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Funny-Cats/static/css/main.27db5c22.css",
-    "main.js": "/Funny-Cats/static/js/main.dd9df299.js",
+    "main.css": "/Funny-Cats/static/css/main.2ddca946.css",
+    "main.js": "/Funny-Cats/static/js/main.ac3098df.js",
     "index.html": "/Funny-Cats/index.html",
-    "main.27db5c22.css.map": "/Funny-Cats/static/css/main.27db5c22.css.map",
-    "main.dd9df299.js.map": "/Funny-Cats/static/js/main.dd9df299.js.map"
+    "main.2ddca946.css.map": "/Funny-Cats/static/css/main.2ddca946.css.map",
+    "main.ac3098df.js.map": "/Funny-Cats/static/js/main.ac3098df.js.map"
   },
   "entrypoints": [
-    "static/css/main.27db5c22.css",
-    "static/js/main.dd9df299.js"
+    "static/css/main.2ddca946.css",
+    "static/js/main.ac3098df.js"
   ]
 }
